@@ -7,3 +7,4 @@
 ![](images/pic.jpg)   
 Similarly, for alphabet puzzle the logic is same. But this time user won’t give any input. Alphabet from A to H will be given randomly 3x3 with 8 tiles. User will have to arrange the alphabets in order.
 *	Inside The Project: This OOP based project will have single class for each portion. And it will be based on SWING
+Team member : Faisal Osman
